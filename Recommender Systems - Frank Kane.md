@@ -1,8 +1,8 @@
-SECTION 1 : GETTING STARTED
+# SECTION 1 : GETTING STARTED
 ---------------------------
-SECTION 2 : INTRODUCTION TO PYTHON
+# SECTION 2 : INTRODUCTION TO PYTHON
 ----------------------------------
-SECTION 3 : EVALUATING RECOMMENDER SYSTEMS
+# SECTION 3 : EVALUATING RECOMMENDER SYSTEMS
 ------------------------------------------
   DOING RECOMMENDATIONS OFFLINE
   -----------------------------
@@ -24,6 +24,7 @@ SECTION 3 : EVALUATING RECOMMENDER SYSTEMS
   https://medium.com/@ewuramaminka/mean-absolute-error-mae-machine-learning-ml-b9b4afc63077
   https://medium.com/@ewuramaminka/mean-absolute-error-mae-sample-calculation-6eed6743838a
   https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d
+
   READ ABOUT THE TEAM CALLED - BELLKOR 
   ------------------------------------
   http://algorithmsanalyzed.blogspot.com/2008/03/bellkor-algorithm-overview.html
@@ -67,25 +68,25 @@ SECTION 3 : EVALUATING RECOMMENDER SYSTEMS
   
   
   
-SECTION 4 : A RECOMMENDER ENGINE FRAMEWORK
+# SECTION 4 : A RECOMMENDER ENGINE FRAMEWORK
 -------------------------------------------
-SECTION 5 : CONTENT-BASED FILTERING
+# SECTION 5 : CONTENT-BASED FILTERING
 -----------------------------------
-SECTION 6 : NEIGHBOURHOOD-BASED COLLABORATIVE FILTERING
+# SECTION 6 : NEIGHBOURHOOD-BASED COLLABORATIVE FILTERING
 -------------------------------------------------------
-SECTION 7 : MATRIX FACTORIZATION METHODS
+# SECTION 7 : MATRIX FACTORIZATION METHODS
 -------------------------------------------------------
-SECTION 8 : INTRODUCTION TO DEEP LEARNING
+# SECTION 8 : INTRODUCTION TO DEEP LEARNING
 -----------------------------------------
-SECTION 9 : DEEP LEARNING FOR RECOMMENDER SYSTEMS
+# SECTION 9 : DEEP LEARNING FOR RECOMMENDER SYSTEMS
 -------------------------------------------------
-SECTION 10 : SCALING IT UP
+# SECTION 10 : SCALING IT UP
 --------------------------
-SECTION 11 : REAL-WORLD CHALLENGES OF RECOMMENDER SYSTEMS
+# SECTION 11 : REAL-WORLD CHALLENGES OF RECOMMENDER SYSTEMS
 ---------------------------------------------------------
-SECTION 12 : CASE-STUDIES
+# SECTION 12 : CASE-STUDIES
 -------------------------
-SECTION 13 : HYBRID APPROACHES
+# SECTION 13 : HYBRID APPROACHES
 ------------------------------
-SECTION 14 : WRAPPING UP
+# SECTION 14 : WRAPPING UP
 ------------------------
