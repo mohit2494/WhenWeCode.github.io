@@ -1,5 +1,6 @@
 # Machine Learning
 - https://fast.ai
+- https://www.commonlounge.com/discussion/33a9cce246d343dd85acce5c3c505009
 
 # Deep Learning
 
