@@ -5,30 +5,30 @@
 ### SECTION 3 : EVALUATING RECOMMENDER SYSTEMS
 ------------------------------------------
 #### DOING RECOMMENDATIONS OFFLINE
-  -----------------------------
-  - FULL DATA SET(MOVIE RATINGS ETC.) -> SPLIT INTO TRAINING SET AND TEST SET -> APPLY MACHINE LEARNING ALGO ON TRAINING SET
-  NOW RUN THE MODEL FOR TEST DATA TO SEE HOW ACCURATE IT IS.
-  
+-----------------------------
+- FULL DATA SET(MOVIE RATINGS ETC.) -> SPLIT INTO TRAINING SET AND TEST SET -> APPLY MACHINE LEARNING ALGO ON TRAINING SET
+NOW RUN THE MODEL FOR TEST DATA TO SEE HOW ACCURATE IT IS.
+
 #### K FOLD CROSS VALIDATION
-  ------------------------
-  K TRAINING SETS - MODEL MACHINE LEARNING - AND AVERAGE ALL FOLD RESULTS
-  PROVIDES INSURANCE THAT MODEL IS WELL EXPERIENCED
+------------------------
+K TRAINING SETS - MODEL MACHINE LEARNING - AND AVERAGE ALL FOLD RESULTS
+PROVIDES INSURANCE THAT MODEL IS WELL EXPERIENCED
   
 #### MEASURING ACCURACY
-  ------------------
+------------------
 #### MEAN ABSOLUTE ERROR(MAE) - < LINK HERE FOR READING >
-  ----------------------------------------------------
+----------------------------------------------------
 #### ROOT MEAN SQUARED ERROR(RMSE) - < LINK HERE FOR READING >
-  ---------------------------------------------------------
-  https://stackoverflow.com/questions/40323393/what-does-the-mae-actually-telling-me
-  https://medium.com/@ewuramaminka/mean-absolute-error-mae-machine-learning-ml-b9b4afc63077
-  https://medium.com/@ewuramaminka/mean-absolute-error-mae-sample-calculation-6eed6743838a
-  https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d
+---------------------------------------------------------
+https://stackoverflow.com/questions/40323393/what-does-the-mae-actually-telling-me
+https://medium.com/@ewuramaminka/mean-absolute-error-mae-machine-learning-ml-b9b4afc63077
+https://medium.com/@ewuramaminka/mean-absolute-error-mae-sample-calculation-6eed6743838a
+https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d
 
 #### READ ABOUT THE TEAM CALLED - BELLKOR 
-  ------------------------------------
-  http://algorithmsanalyzed.blogspot.com/2008/03/bellkor-algorithm-overview.html
-  https://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
+------------------------------------
+http://algorithmsanalyzed.blogspot.com/2008/03/bellkor-algorithm-overview.html
+https://www.netflixprize.com/assets/GrandPrize2009_BPC_BellKor.pdf
   
 #### EVALUATING TOP-N RECOMMENDERS
   -----------------------------
