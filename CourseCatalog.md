@@ -61,3 +61,7 @@ https://github.com/mobxjs/mobx-state-tree
 - 
 ### Django
 - 
+
+### Python
+- Python Programming Net : https://pythonprogramming.net/
+- https://www.python-course.eu/threads.php
