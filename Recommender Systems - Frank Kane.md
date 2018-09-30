@@ -66,7 +66,32 @@
   -------
   < LINK HERE >
   
+  LONG TAILED AND SHORT TAILED SEARCHES 
+  -------------------------------------
+  < LINK HERE >
+
+  CHURN 
+  -----
+  < LINK HERE >
+
+  RESPONSIVENESS IN RECOMMENDER SYSTEMS
+  -------------------------------------
+  < LINK HERE >
+
+  THE SURROGATE PROBLEM FOR RECOMMENDATIONS
+  -----------------------------------------
+  < LINK HERE >
+
+  FEEDBACK BASED RECOMMENDER SYSTEMS
+  ----------------------------------
+  < LINK HERE >
   
+  SURPRISE - A PYTHON SCIKIT LIBRARY FOR RECOMMENDER SYSTEMS
+  ----------------------------------------------------------
+  Stands for simple python Recommendation System Engine
+  https://surpriselib.com
+
+
   
 # SECTION 4 : A RECOMMENDER ENGINE FRAMEWORK
 -------------------------------------------
